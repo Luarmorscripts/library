@@ -38,12 +38,12 @@ local Library = {
 
     HudRegistry = {};
 
-    FontColor = Color3.fromRGB(255, 255, 255);
-    MainColor = Color3.fromRGB(28, 28, 28);
-    BackgroundColor = Color3.fromRGB(20, 20, 20);
-    AccentColor = Color3.fromRGB(0, 85, 255);
-    OutlineColor = Color3.fromRGB(50, 50, 50);
-    RiskColor = Color3.fromRGB(255, 50, 50),
+    FontColor = Color3.fromRGB(255, 255, 255);          -- Bright white for text
+MainColor = Color3.fromRGB(34, 34, 34);              -- Dark gray for main background
+BackgroundColor = Color3.fromRGB(30, 30, 30);        -- Slightly lighter dark gray for sections
+AccentColor = Color3.fromRGB(100, 100, 255);         -- Light purple for accents
+OutlineColor = Color3.fromRGB(70, 70, 70);           -- Medium gray for outlines
+RiskColor = Color3.fromRGB(255, 50, 50);             -- Bright red for alerts
 
     Black = Color3.new(0, 0, 0);
     Font = Enum.Font.SourceSansLight,
