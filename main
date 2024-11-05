@@ -45,7 +45,7 @@ AccentColor = Color3.fromRGB(118,109,168,255);         -- Light purple for accen
 OutlineColor = Color3.fromRGB(0, 0, 0);           -- Medium gray for outlines
 RiskColor = Color3.fromRGB(0, 0, 0);             -- Bright red for alerts
 
-    Black = Color3.new(255, 255, 255);
+    Black = Color3.new(0, 0, 0);
     Font = Enum.Font.Code,
 
     OpenedFrames = {};
