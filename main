@@ -42,8 +42,8 @@ local Library = {
 MainColor = Color3.fromRGB(35,35,35,255);              -- Dark gray for main background
 BackgroundColor = Color3.fromRGB(35,35,35,255);        -- Slightly lighter dark gray for sections
 AccentColor = Color3.fromRGB(118,109,168,255);         -- Light purple for accents
-OutlineColor = Color3.fromRGB(1, 1, 255);           -- Medium gray for outlines
-RiskColor = Color3.fromRGB(255, 90, 90);             -- Bright red for alerts
+OutlineColor = Color3.fromRGB(0, 0, 0);           -- Medium gray for outlines
+RiskColor = Color3.fromRGB(0, 0, 0);             -- Bright red for alerts
 
     Black = Color3.new(255, 255, 255);
     Font = Enum.Font.Code,
