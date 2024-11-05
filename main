@@ -41,7 +41,7 @@ local Library = {
     FontColor = Color3.fromRGB(255, 255, 255);          -- Bright white for text
 MainColor = Color3.fromRGB(34, 34, 34);              -- Dark gray for main background
 BackgroundColor = Color3.fromRGB(24, 24, 24);        -- Slightly lighter dark gray for sections
-AccentColor = Color3.fromRGB(135, 20, 255);         -- Light purple for accents
+AccentColor = Color3.fromRGB(164, 11, 230);         -- Light purple for accents
 OutlineColor = Color3.fromRGB(60, 60, 60);           -- Medium gray for outlines
 RiskColor = Color3.fromRGB(255, 90, 90);             -- Bright red for alerts
 
