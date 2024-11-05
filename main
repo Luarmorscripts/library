@@ -39,14 +39,14 @@ local Library = {
     HudRegistry = {};
 
     FontColor = Color3.fromRGB(255, 255, 255);          -- Bright white for text
-MainColor = Color3.fromRGB(34, 34, 34);              -- Dark gray for main background
-BackgroundColor = Color3.fromRGB(24, 24, 24);        -- Slightly lighter dark gray for sections
-AccentColor = Color3.fromRGB(164, 11, 230);         -- Light purple for accents
-OutlineColor = Color3.fromRGB(60, 60, 60);           -- Medium gray for outlines
+MainColor = Color3.fromRGB(35,35,35,255);              -- Dark gray for main background
+BackgroundColor = Color3.fromRGB(35,35,35,255);        -- Slightly lighter dark gray for sections
+AccentColor = Color3.fromRGB(118,109,168,255);         -- Light purple for accents
+OutlineColor = Color3.fromRGB(1, 1, 255);           -- Medium gray for outlines
 RiskColor = Color3.fromRGB(255, 90, 90);             -- Bright red for alerts
 
     Black = Color3.new(255, 255, 255);
-    Font = Enum.Font.Arcade,
+    Font = Enum.Font.Code,
 
     OpenedFrames = {};
     DependencyBoxes = {};
