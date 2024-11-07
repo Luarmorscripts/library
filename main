@@ -46,7 +46,7 @@ OutlineColor = Color3.fromRGB(0, 0, 0);           -- Medium gray for outlines
 RiskColor = Color3.fromRGB(0, 0, 0);             -- Bright red for alerts
 
     Black = Color3.new(0, 0, 0);
-    Font = Enum.Font.Legacy,
+    Font = Enum.Font.GothamBold,
 
     OpenedFrames = {};
     DependencyBoxes = {};
